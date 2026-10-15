@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pixel</title>
+<!-- items -->
+    <item>
+      <title>Pixel 1.0</title>
+      <pubDate>Thu, 15 Oct 2026 14:29:52 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[הגרסה הראשונה לצוות של Cherry 🍒]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.0/Pixel-1.0.dmg" type="application/octet-stream" sparkle:edSignature="4F+Y4ZZ2s1jPT4im7gEmlWfW8A0YBUlZ8Ifx/01k/P4Opq6adzqXC55gFh4uMo8QeW2UJH4T2I4RTVITrpDlAg==" length="5662623" />
+    </item>
+  </channel>
+</rss>
