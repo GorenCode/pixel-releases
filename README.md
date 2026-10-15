@@ -7,7 +7,17 @@
 
 **AI בלחיצה · תיקון עברית/אנגלית · הכתבה · כיווץ קבצים · ועוד המון — עם Cherry, החבר הכי חמוד שהיה לכם על המסך**
 
-## [⬇️ להורדה (חינם)](https://github.com/GorenCode/pixel-releases/releases/latest)
+## ⬇️ התקנה בשורה אחת (חינם)
+
+</div>
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/GorenCode/pixel-releases/main/install.sh | bash
+```
+
+<div dir="rtl" align="center">
+
+פותחים את **Terminal** (⌘ רווח ← "Terminal"), מדביקים, Enter — ו־Cherry מופיע ב־notch 🍒
 
 macOS 15 ומעלה · Mac עם Apple Silicon (M1 ומעלה) · מתעדכן לבד
 
@@ -111,12 +121,26 @@ Cherry, Orbi, רובוט, חתול, ארנב, רוח, צפרדע, פינגווי
 
 ---
 
-## 📥 התקנה (דקה אחת)
+## 📥 התקנה
 
-1. **[מורידים את Pixel](https://github.com/GorenCode/pixel-releases/releases/latest)** — הקובץ `Pixel-x.x.dmg`
-2. פותחים וגוררים את **Pixel** לתיקיית **Applications**
-3. בפתיחה הראשונה macOS יגיד שהוא לא מזהה את המפתח — זה צפוי. נכנסים ל**הגדרות מערכת ← פרטיות ואבטחה**, גוללים למטה ולוחצים **"פתח בכל זאת"** (פעם אחת בלבד)
-4. Cherry מקבל אתכם ושואל במה לעזור — בוחרים, מאשרים רק את ההרשאות שצריך, וזהו
+### הדרך הקלה — שורה אחת, בלי שום אזהרה
+1. פותחים **Terminal**: ⌘ + רווח, מקלידים `Terminal`, Enter
+2. מדביקים את השורה הזאת ולוחצים Enter:
+
+</div>
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/GorenCode/pixel-releases/main/install.sh | bash
+```
+
+<div dir="rtl">
+
+3. זהו — Pixel מותקן בתיקיית Applications ונפתח לבד. Cherry מקבל אתכם ושואל במה לעזור 🍒
+
+### או הורדה רגילה
+1. **[מורידים את Pixel.zip](https://github.com/GorenCode/pixel-releases/releases/latest/download/Pixel.zip)** (קובץ אחד — Safari פותח אותו לבד)
+2. גוררים את **Pixel** מתיקיית ההורדות לתיקיית **Applications** ופותחים
+3. macOS יגיד שהוא לא יכול לאמת את האפליקציה (כי היא חינמית ולא נרכשה מאפל) — לוחצים **Done**, נכנסים ל**הגדרות מערכת ← פרטיות ואבטחה**, גוללים למטה ולוחצים **"פתח בכל זאת"**. פעם אחת בלבד.
 
 <div align="center"><img src="assets/welcome.png" width="620" alt="Welcome"></div>
 

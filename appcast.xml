@@ -10,7 +10,7 @@
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[הגרסה הראשונה לצוות של Cherry 🍒]]></description>
-      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.0/Pixel-1.0.dmg" type="application/octet-stream" sparkle:edSignature="4F+Y4ZZ2s1jPT4im7gEmlWfW8A0YBUlZ8Ifx/01k/P4Opq6adzqXC55gFh4uMo8QeW2UJH4T2I4RTVITrpDlAg==" length="5662623" />
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.0/Pixel-1.0.zip" type="application/octet-stream" sparkle:edSignature="cV/njXpyOI+am8UanfLgZEaHawVYULnrXYwTIj5cL0xP1ozmnmznKpEBY5MDOv2yvNVEiCkJM/OeafPdmJiJAQ==" length="5147939" />
     </item>
   </channel>
 </rss>
