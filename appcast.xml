@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Pixel 1.2</title>
+      <pubDate>Sun, 18 Oct 2026 11:33:43 +0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[חדש: התחברות עם Slack ו־monday — הודעות פרטיות, תיוגים ומשימות ששויכו אליך ישר ל־notch. חיבור אמיתי למנויים של Claude, ChatGPT, Cursor ו־Gemini. לחיצה על האלבום פותחת את Spotify / Music. ואחרי כל עדכון — החבר שלך מתחזק 💪]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.2/Pixel-1.2.zip" type="application/octet-stream" sparkle:edSignature="aBvFCOh4LpdrnyExar7wSx6SgLv+uy/MYc1qJ57+pCqzJSgU8R0Sbp/TBMaZy6yHPVWlBuapFiannOreSx5qDQ==" length="5377202" />
+    </item>
+    <item>
       <title>Pixel 1.1</title>
       <pubDate>Sun, 18 Oct 2026 07:53:17 +0000</pubDate>
       <sparkle:version>64</sparkle:version>
