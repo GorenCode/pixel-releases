@@ -1,11 +1,11 @@
 #!/bin/bash
-# Installs (or reinstalls) Pixel:
+# Installs (or reinstalls) Cherrybit (formerly Pixel):
 #   curl -fsSL https://raw.githubusercontent.com/GorenCode/pixel-releases/main/install.sh | bash
-# Downloads the latest Pixel from GitHub, puts it in Applications and opens it. After that Pixel updates itself.
+# Downloads the latest Cherrybit from GitHub, puts it in Applications and opens it. After that it updates itself.
 set -e
 
 URL="https://github.com/GorenCode/pixel-releases/releases/latest/download/Pixel.zip"
-echo "🍒 Installing Pixel…"
+echo "🍒 Installing Cherrybit…"
 
 TMP=$(mktemp -d)
 trap 'rm -rf "$TMP"' EXIT
@@ -17,16 +17,17 @@ ditto -x -k "$TMP/Pixel.zip" "$TMP/unzipped"
 DEST="${PIXEL_DEST:-/Applications}"   # PIXEL_DEST / PIXEL_TEST: for testing the installer
 [ -w "$DEST" ] || { DEST="$HOME/Applications"; mkdir -p "$DEST"; }
 
-# Close a running Pixel, swap in the new one.
+# Close a running copy (it may still be called Pixel), swap in the new one.
 if [ -z "$PIXEL_TEST" ]; then
-  osascript -e 'tell application "Pixel" to quit' >/dev/null 2>&1 || true
+  osascript -e 'tell application id "app.mochi.notch" to quit' >/dev/null 2>&1 || true
   pkill -x Pixel >/dev/null 2>&1 || true
+  pkill -x Cherrybit >/dev/null 2>&1 || true
   sleep 1
 fi
-rm -rf "$DEST/Pixel.app"
-ditto "$TMP/unzipped/Pixel.app" "$DEST/Pixel.app"
+rm -rf "$DEST/Pixel.app" "$DEST/Cherrybit.app"
+ditto "$TMP/unzipped/Pixel.app" "$DEST/Cherrybit.app"
 # Installed on purpose from here, so macOS doesn't need to ask about it again.
-xattr -dr com.apple.quarantine "$DEST/Pixel.app" >/dev/null 2>&1 || true
+xattr -dr com.apple.quarantine "$DEST/Cherrybit.app" >/dev/null 2>&1 || true
 
-[ -z "$PIXEL_TEST" ] && open "$DEST/Pixel.app"
-echo "✅ Pixel is installed in $DEST — look at your notch! 🍒"
+[ -z "$PIXEL_TEST" ] && open "$DEST/Cherrybit.app"
+echo "✅ Cherrybit is installed in $DEST — look at your notch! 🍒"
