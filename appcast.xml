@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Cherrybit 1.4</title>
+      <pubDate>Sun, 18 Oct 2026 16:12:40 +0000</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixel נהיה Cherrybit 🍒 — שם חדש, אותו חבר. חדש: ▶ / ⏹ למשימות monday ישר מה־notch (Working on it / Hold), משימה שרצה למעלה עם שעון חי, Done ו־QA מוסתרים. האפליקציה הרבה יותר קלה ומהירה: בלי תקיעות כשמגיע קובץ, הרבה פחות זיכרון ומעבד.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.4/Pixel-1.4.zip" type="application/octet-stream" sparkle:edSignature="3I+lO040MEMhuaO8xS55nCEG42GRClXZqDCVbui/YUHHg/2gWbbddccKpCVa4stlzQnXl/KNwj6uJPiJj6mbAA==" length="5527408" />
+    </item>
+    <item>
       <title>Pixel 1.3</title>
       <pubDate>Sun, 18 Oct 2026 11:56:25 +0000</pubDate>
       <sparkle:version>78</sparkle:version>
