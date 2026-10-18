@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Pixel 1.1</title>
+      <pubDate>Sun, 18 Oct 2026 07:53:17 +0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Cherry מפנה מקום לתפריטים של אפליקציות (כמו Photoshop ו-Excel) ויושב ליד ה-notch עם יותר מרווח 🍒]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.1/Pixel-1.1.zip" type="application/octet-stream" sparkle:edSignature="PokyJyksYaxcBQcxlOPoORCWo/oRZOTjE14Cwlpbzpnab1LwLjNqnM/F8jBfP5hVoHLdVY0UH6pmjh1soxgbCA==" length="5169093" />
+    </item>
+    <item>
       <title>Pixel 1.0</title>
       <pubDate>Thu, 15 Oct 2026 14:29:52 +0000</pubDate>
       <sparkle:version>60</sparkle:version>
