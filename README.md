@@ -144,7 +144,7 @@ curl -fsSL https://raw.githubusercontent.com/GorenCode/pixel-releases/main/insta
 
 <div align="center"><img src="assets/welcome.png" width="620" alt="Welcome"></div>
 
-**עדכונים:** Pixel בודק פעם ביום אם יש גרסה חדשה ושואל לפני שהוא מתקין. 
+**עדכונים:** Pixel בודק כל כמה שעות אם יש גרסה חדשה ושואל לפני שהוא מתקין. רוצים עכשיו? אייקון Pixel בשורת התפריטים ← **Check for Updates…**
 
 ## 🔒 פרטיות
 
