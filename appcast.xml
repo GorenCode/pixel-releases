@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Cherrybit 1.4.2</title>
+      <pubDate>Mon, 19 Oct 2026 08:15:07 +0000</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[תיקון: החיבור ל־Slack ול־monday יציב יותר — לא מתנתק בלי הודעה, ואם צריך להתחבר מחדש Cherrybit אומר את זה ב־notch.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.4.2/Pixel-1.4.2.zip" type="application/octet-stream" sparkle:edSignature="Udzze9JRhJr+fftXM/exliYumaoqb1xFgun6/tVU6JNe13tOmKk/s8YutoSJXP3iy5xj77WHtvdlo+9Z8JSYDQ==" length="5536597" />
+    </item>
+    <item>
       <title>Cherrybit 1.4.1</title>
       <pubDate>Sun, 18 Oct 2026 18:48:06 +0000</pubDate>
       <sparkle:version>89</sparkle:version>
