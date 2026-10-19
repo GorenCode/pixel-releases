@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Cherrybit 1.4.3</title>
+      <pubDate>Mon, 19 Oct 2026 13:21:46 +0000</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[חדש: המרה ל־MP4 (קטן יותר) לסרטוני QuickTime (‎.mov / ‎.qt). הפעלה ועצירה של שעון ב־monday עובדת עכשיו לכל הצוות (צריך להתחבר מחדש ל־monday פעם אחת).]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.4.3/Pixel-1.4.3.zip" type="application/octet-stream" sparkle:edSignature="ZH0UQ4ZNBimo7AipSSES1CLAf/yRdLiFz4R4V+vzstpfj0KfEuVqF/8lFL/8xV2cDY5rBWBdUVbwL6er0aayDg==" length="5558438" />
+    </item>
+    <item>
       <title>Cherrybit 1.4.2</title>
       <pubDate>Mon, 19 Oct 2026 08:15:07 +0000</pubDate>
       <sparkle:version>90</sparkle:version>
