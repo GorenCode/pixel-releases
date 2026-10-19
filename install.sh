@@ -13,6 +13,10 @@ curl -fL --progress-bar -o "$TMP/Pixel.zip" "$URL"
 ditto -x -k "$TMP/Pixel.zip" "$TMP/unzipped"
 [ -d "$TMP/unzipped/Pixel.app" ] || { echo "❌ The download didn't contain Pixel.app — try again."; exit 1; }
 
+# Only the real Chiri: signed with Cherry's own certificate (pinned here), untouched since. A swapped download stops here.
+REQ='identifier "app.mochi.notch" and certificate leaf = H"6b117ef4a3af28e4a81bcb927f28a868f19a7c30"'
+codesign --verify --deep --strict -R="$REQ" "$TMP/unzipped/Pixel.app" >/dev/null 2>&1 || { echo "❌ This download isn't signed by Cherry — not installing it."; exit 1; }
+
 # Applications if we may write there, otherwise the Applications folder in your home folder.
 DEST="${PIXEL_DEST:-/Applications}"   # PIXEL_DEST / PIXEL_TEST: for testing the installer
 [ -w "$DEST" ] || { DEST="$HOME/Applications"; mkdir -p "$DEST"; }
