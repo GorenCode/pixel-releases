@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5</title>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 +0000</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixel נהיה Chiri 🍒. חדש: ביטול פגישה (או 'לא אגיע') ישר מה־notch. הפתקים לא נתקעים פתוחים. החבר מדבר פחות ומשחק יותר עם המבטים. אבטחה: הגנה מפני הזרקת קוד, אימות חתימה בהתקנה, ושמירה הדוקה יותר של ההתחברויות.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5/Pixel-1.5.zip" type="application/octet-stream" sparkle:edSignature="qMEKmw5g0r3FyLPM0y75ztY/cTmf7pxfKZUrGrwjWjNQImy6rsbtAPo5Vex/Y5sBhWvSz/wWrooTwb65ADR2DQ==" length="5576676" />
+    </item>
+    <item>
       <title>Cherrybit 1.4.3</title>
       <pubDate>Mon, 19 Oct 2026 13:21:46 +0000</pubDate>
       <sparkle:version>92</sparkle:version>
