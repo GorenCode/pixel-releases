@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.2</title>
+      <pubDate>Tue, 20 Oct 2026 14:22:08 +0000</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[תיקון ביצועים: התראות וקבצים שמעלים כבר לא מאטים את המחשב (מ־20–30% מעבד ל־2%). חדש: ⌥⇧⌘V — הדבקה כטקסט נקי בכל אפליקציה.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.2/Pixel-1.5.2.zip" type="application/octet-stream" sparkle:edSignature="oirYSALrdovwGu1IR8SIUHOLtrPdA63igb1HAu5OBNeEn+bJloVv3SMvcIwvTL/Opj7/8jnbPtrFrGz/TKcFDA==" length="5585437" />
+    </item>
+    <item>
       <title>Chiri 1.5.1</title>
       <pubDate>Tue, 20 Oct 2026 11:59:29 +0000</pubDate>
       <sparkle:version>96</sparkle:version>
