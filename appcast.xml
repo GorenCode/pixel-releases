@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.4</title>
+      <pubDate>Sun, 25 Oct 2026 13:54:32 +0000</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[תיקון חשוב: חיבור ליומן לא עבד למי שהתקין מחדש (macOS חסם בלי לשאול). עכשיו "חיבור ליומן" מציג את חלון ההרשאה כרגיל.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.4/Pixel-1.5.4.zip" type="application/octet-stream" sparkle:edSignature="hcsdY52nmX5Ytg+Ce/EecJMdbqAeIG4yjS5yVMlBpDRMnaBM/VPvG7ZEzoNjoXL2/AclArrwthtfQ5+tQlFVCA==" length="5607886" />
+    </item>
+    <item>
       <title>Chiri 1.5.3</title>
       <pubDate>Thu, 22 Oct 2026 07:55:23 +0000</pubDate>
       <sparkle:version>99</sparkle:version>
