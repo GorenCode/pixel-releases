@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.5</title>
+      <pubDate>Mon, 26 Oct 2026 13:26:06 +0000</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Copy & paste (⌘C/⌘V/⌘X/⌘A/⌘Z) now work in Notes and every text field. New extra: Activity clock — your active time today, hour by hour, and your top apps (stays on your Mac).]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.5/Pixel-1.5.5.zip" type="application/octet-stream" sparkle:edSignature="5/DPGPCsWiqsQxI3n7nbPLgXB7izbSbTZE6+x8+g0O21o6L7Op6XdlIwxaEaNhYMJmoDUwh/um8lBwlo/AxCAw==" length="5649637" />
+    </item>
+    <item>
       <title>Chiri 1.5.4</title>
       <pubDate>Sun, 25 Oct 2026 13:54:32 +0000</pubDate>
       <sparkle:version>100</sparkle:version>
