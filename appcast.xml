@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.6</title>
+      <pubDate>Tue, 03 Nov 2026 12:01:17 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Alerts no longer block clicks at the top of the screen — clicks outside the notch go to what's underneath. monday: far fewer API calls (one check every 3 minutes, none while you're away; tasks load when you open the tab).]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.6/Pixel-1.5.6.zip" type="application/octet-stream" sparkle:edSignature="NQTaBe0yy0oJGlslBgxgdqxAHqhgvprlViTs74ym+l9WqrHF8VaSrSK5D4/PGRwtLMQidPnVDX5DsupDeUtXBA==" length="5658033" />
+    </item>
+    <item>
       <title>Chiri 1.5.5</title>
       <pubDate>Mon, 26 Oct 2026 13:26:06 +0000</pubDate>
       <sparkle:version>101</sparkle:version>
