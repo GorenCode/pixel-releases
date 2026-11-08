@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.7</title>
+      <pubDate>Sun, 08 Nov 2026 13:22:56 +0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[A friendly monday hours check: a playful nudge after 30 minutes of work with no timer, and an afternoon look at the hours on the clock. Sun–Thu during work hours, never during calls or meetings; can be turned off in Settings → Extras.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.7/Pixel-1.5.7.zip" type="application/octet-stream" sparkle:edSignature="DNC1cvf8lYZEoE13H8WtpxJveNkwcftuZ/zEoJLg1h+ejOuYTQXFcvSPP47Y2H3LkHR46TJoGkvmi8gSqBS6Bg==" length="5719947" />
+    </item>
+    <item>
       <title>Chiri 1.5.6</title>
       <pubDate>Tue, 03 Nov 2026 12:01:17 +0000</pubDate>
       <sparkle:version>103</sparkle:version>
