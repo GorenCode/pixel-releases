@@ -4,6 +4,15 @@
     <title>Pixel</title>
 <!-- items -->
     <item>
+      <title>Chiri 1.5.8</title>
+      <pubDate>Sun, 08 Nov 2026 14:06:46 +0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Chiri now celebrates the moment your day reaches 6 hours on the clock.]]></description>
+      <enclosure url="https://github.com/GorenCode/pixel-releases/releases/download/v1.5.8/Pixel-1.5.8.zip" type="application/octet-stream" sparkle:edSignature="crangSj4fVy1clUutjnL8lkNxIdN0e3Arn4BOFhTuFX6oE9LdAGG5jVCWpPDobvtSWMc/PvWINBKeiKXVq8NCw==" length="5720539" />
+    </item>
+    <item>
       <title>Chiri 1.5.7</title>
       <pubDate>Sun, 08 Nov 2026 13:22:56 +0000</pubDate>
       <sparkle:version>106</sparkle:version>
